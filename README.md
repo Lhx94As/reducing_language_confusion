@@ -1,4 +1,4 @@
-# reducing_language_confusion
+# reducing_language_confusion (updating)
 
 Source code for paper:  
 [Reducing Language Confusion for Code-switching Speech Recognition with Token-level Language Diarization](https://arxiv.org/abs/2210.14567)  
