@@ -14,7 +14,7 @@
 |dataset|Snt|Wrd|Corr|Sub|Del|Ins|Err|S.Err|
 |---|---|---|---|---|---|---|---|---|
 |inference_asr_model_valid.acc.ave/devman|6531|96737|85.6|11.5|2.9|2.0|16.3|75.0|
-|inference_asr_model_valid.acc.ave/devsge|5321|54390|79.8|16.2|3.9|2.9|23.0|73.9|
+|inference_asr_model_valid.acc.ave/devsge|5321|54390|79.8|16.2|3.9|2.9|22.9|73.9|
 |inference_lm_lm_train_lm_transformer_bpe5628_valid.loss.ave_asr_model_valid.acc.ave/devman|6531|96737|85.8|11.0|3.2|1.9|16.1|74.4|
 |inference_lm_lm_train_lm_transformer_bpe5628_valid.loss.ave_asr_model_valid.acc.ave/devsge|5321|54390|80.0|15.7|4.3|2.8|22.8|73.2|
 
